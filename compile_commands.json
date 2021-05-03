@@ -1,0 +1,40 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-w",
+      "-Wall",
+      "-O",
+      "-Iinclude/",
+      "-isystem",
+      "/Library/Developer/CommandLineTools/usr/include/c++/v1",
+      "-o",
+      "sudoku",
+      "src/main.cpp"
+    ],
+    "directory": "/Users/wang/Documents/Xcode/Projects/Sudoku",
+    "file": "/Users/wang/Documents/Xcode/Projects/Sudoku/src/main.cpp",
+    "output": "/Users/wang/Documents/Xcode/Projects/Sudoku/sudoku"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++11",
+      "-w",
+      "-Wall",
+      "-O",
+      "-Iinclude/",
+      "-isystem",
+      "/Library/Developer/CommandLineTools/usr/include/c++/v1",
+      "-o",
+      "sudoku",
+      "src/solver.cpp"
+    ],
+    "directory": "/Users/wang/Documents/Xcode/Projects/Sudoku",
+    "file": "/Users/wang/Documents/Xcode/Projects/Sudoku/src/solver.cpp",
+    "output": "/Users/wang/Documents/Xcode/Projects/Sudoku/sudoku"
+  }
+]
